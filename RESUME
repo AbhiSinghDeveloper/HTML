@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      BASIC RESUME
+     </head>
+    <body>
+        <h1>ABHISHEK SINGH</h1>
+        <img src="C:\Users\Abhishek Singh\Desktop\abhi.jpg" alt="Abhishek Singh">
+        <h3>SKILLS :</h3>
+        <ul>
+            <li>Coding</li>
+            <li>Speaking</li>
+        </ul>
+        <h3>ACHIEVEMENTS :</h3>
+        <ol>
+            <li>2nd rank in coding contest.</li>
+            <li>1st prize in 100m race.</li>
+        </ol>
+        <h4>Links :</h4>
+        <a href="https://www.linkedin.com/in/abhisheksinghdeveloper/">Here is a LinkedIN profile.</a>
+    </body>
+</html>
+
+
+
